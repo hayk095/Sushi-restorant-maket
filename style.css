@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-  background-image: url(./bg.jpg);
+  background-image: url(images/bg.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -246,7 +246,7 @@ body {
 }
 
 .black-box {
-  background-image: url(./bg2.jpg);
+  background-image: url(images/bg2.jpg);
   padding: 80px 0;
 }
 
@@ -323,7 +323,7 @@ body {
 }
 
 .menu {
-  background-image: url(./menu-bg.png);
+  background-image: url(images/menu-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 100px;
@@ -401,7 +401,7 @@ body {
 }
 
 .comment {
-  background-image: url(./menu-footer.png);
+  background-image: url(images/menu-footer.png);
   text-align: center;
   padding-top: 104px;
   padding-bottom: 107px;
